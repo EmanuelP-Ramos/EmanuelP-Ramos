@@ -18,7 +18,7 @@ jobs:
         with:
           username: EmanuelP-Ramos
           file: trophy.svg
-          token: token: ${{ secrets.TROPHY_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Comitar troféu
         run: |
