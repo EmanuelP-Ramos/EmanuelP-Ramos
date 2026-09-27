@@ -11,11 +11,14 @@
 ## 🧭 Sobre mim
 
 - 🌱 Aprendendo **Java** e me direcionando ao **Spring Boot**
+- ⭐ Aprendendo ferramentas para Software Development
+- 🗽 Inglês intermediário
+- 🎸 Fun fact : Curto tocar guitarra
 - 📫 Contato: **emanuelr0671@gmail.com**
 
 <br>
 
-## 🛠️ Stack
+## 🛠️ Ferramentas e linguagens que busco aprender
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,postgres&theme=dark" />
