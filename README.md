@@ -30,15 +30,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=EmanuelP-Ramos&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmanuelP-Ramos&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
+<img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas"/>
 
 <img src="https://streak-stats.demolab.com/?user=EmanuelP-Ramos&hide_border=true&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=EmanuelP-Ramos](https://fabianocouto-activity-graph.vercel.app/graph/?username=EmanuelP-Ramos&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=EmanuelP-Ramos&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%"/>
 
 </div>
-
 
 <br>
 
